@@ -31,11 +31,9 @@ Trained and compared multiple regression models:
 - Linear Regression  
 - Ridge Regression  
 - Lasso Regression  
-- Decision Tree  
 - Random Forest  
-- XGBoost  
-- LightGBM  
-
+- XGBoost
+  
 Evaluation metrics used:
 - **R² Score**
 - **MAE (Mean Absolute Error)**
