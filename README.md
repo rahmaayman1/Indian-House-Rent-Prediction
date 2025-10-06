@@ -57,15 +57,15 @@ Evaluation metrics used:
 | Ridge Regression | 0.6748 | 0.24 | 0.68 |
 | Lasso Regression | 0.0054 | 0.51 | 1.19 |
 
-✅ **Best Model:** XGBoost  
-📈 **After Hyperparameter Tuning:**  
+ **Best Model:** XGBoost  
+ **After Hyperparameter Tuning:**  
 - R² Score: **0.9145**  
 - MAE: **0.04**  
 - RMSE: **0.35**
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **Python**
 - **Pandas, NumPy**
 - **Matplotlib, Seaborn**
