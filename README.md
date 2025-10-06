@@ -47,7 +47,7 @@ Evaluation metrics used:
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Model | R² Score | MAE | RMSE |
 |-------|-----------|-----|------|
